@@ -1,6 +1,6 @@
-# ONtec 3.0 || Versión 1.0
+# onTec 3.0 || Versión 1.0
 
-### ¿Qué es ONTec 3.0?
+### ¿Qué es onTec 3.0?
 
 Es una plataforma que ayuda a las instituciones a mejorar sus proceso. ONTec 3.0 se está pensando en instituciones educativas que buscan una alternativa a los sistemas convencionales. 
 
