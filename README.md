@@ -17,10 +17,16 @@ Es una plataforma que ayuda a las instituciones a mejorar sus proceso. ONTec 3.0
 ## Documentación 
 
 ### Arquitectura del sistema
+<img src="practicaNear/d1.png" width="70%">
+
 
 ### Casos de uso v1.0
 
+<img src="practicaNear/cu.png" width="70%">
+
 ### Mockups
+<img src="practicaNear/m1.png" width="70%">
+<img src="practicaNear/m2.png" width="70%">
 
 ### Funciones
 Registrar Maestro 
